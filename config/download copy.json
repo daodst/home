@@ -1,0 +1,35 @@
+{
+    "current": [
+      {
+        "version": "1.7.1",
+        "type": "Windows",
+        "size": "64bit",
+        "sha256": "276a8622a3f994c7c93f6e69231fac1562a89550dad3c9a7a499767773888215",
+        "downUrl": "https://n1.daodst.com/DaoDst-Setup-23.3.28.exe"
+      },
+      {
+          "version": "1.7.1",
+          "type": "Linusx",
+          "size": "64bit",
+          "sha256": "abc67a35d0228383d3227f2eccd68a6703acb95c017530a6119552c52803efb6",
+          "downUrl": "https://n1.daodst.com/dst-linux-230331.tar.gz"
+        }
+    ],
+    "history": {
+      "1.7.1": {
+        "version": "1.7.1",
+        "time": "2023-05-261",
+        "downUrl": "/config/footer.json"
+      },
+      "1.7.2": {
+          "version": "1.7.2",
+          "time": "2023-05-26",
+          "downUrl": "/config/footer.json"
+        },
+        "1.7.3": {
+          "version": "1.7.3",
+          "time": "2023-05-26",
+          "downUrl": "/config/footer.json"
+        }
+    }
+  }

@@ -1,0 +1,128 @@
+{
+    "en": [
+        {
+          "title": "The first phase of file deletion public beta starts",
+          "showDesc": true,
+          "descList": [
+            {
+               "title": "Public beta Android app (200M) version 23.03.310 download url.",
+               "isDownLoad": true,
+               "downUrl": "https://n1.daodst.com/daodst_23.03.310.apk",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "Public beta Gateway (centos) version 23.03.31 download url.",
+               "isDownLoad": true,
+               "downUrl": "https://n1.daodst.com/dst-linux-230331.tar.gz",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "Client Command",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": true,
+               "url": "https://github.com/secret-telegram/cli"
+            }
+          ]
+        },
+        {
+          "title": "Gateway node configuration recommendations.",
+          "showDesc": false,
+          "descList": [
+            {
+               "title": "CPU：More than 16 cores",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "Internal Storage：More than 32GB",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "Hard Disk：More than 10TB",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "Handwidth：More than 50Mb/s",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            }
+          ]
+        }
+      ],
+    "zh-cn": [
+        {
+          "title": "第一階段刪檔公測開啟",
+          "showDesc": true,
+          "descList": [
+            {
+               "title": "公測安卓app(200M)版本23.03.310下載地址。",
+               "isDownLoad": true,
+               "downUrl": "https://n1.daodst.com/daodst_23.03.310.apk",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "公测版Gateway(centos)23.03.31版下载地址。",
+               "isDownLoad": true,
+               "downUrl": "https://n1.daodst.com/dst-linux-230331.tar.gz",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "客戶端命令",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": true,
+               "url": "https://github.com/secret-telegram/cli"
+            }
+          ]
+        },
+        {
+          "title": "網關節點配置建議。",
+          "showDesc": false,
+          "descList": [
+            {
+               "title": "CPU：16核以上",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "內部存儲：大於32GB",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "硬盤：大於10TB",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "帶寬：大於50Mb/s",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            }
+          ]
+        }
+      ]
+}
