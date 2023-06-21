@@ -1,5 +1,39 @@
 {
     "en": [
+           {
+          "title": "Hardware Wallet Launches Chip Flower",
+          "showDesc": true,
+          "descList": [
+           {
+               "title": "The DST hardware wallet will be released in the autumn of 2023, with the following features:",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "1.Support multi chain offline creation of mnemonics, multi chain asset storage。",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": " 2.Closed system, secure and sturdy, preventing privacy leakage。",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "3.Easy to trade and use",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            }
+          ]
+        },
         {
           "title": "The first phase of file deletion public beta starts",
           "showDesc": true,
@@ -46,7 +80,7 @@
                "url": ""
             },
             {
-               "title": "Hard Disk：More than 10TB",
+               "title": "Hard disk: If the hard disk does not support dynamic expansion, it is recommended to use a capacity of 10TB. If dynamic expansion is supported, 1TB can be enabled first and then expanded later",
                "isDownLoad": false,
                "downUrl": "",
                "isUrl": false,
@@ -63,6 +97,40 @@
         }
       ],
     "zh-cn": [
+       {
+          "title": "DST硬體錢包推出預告",
+          "showDesc": true,
+          "descList": [
+           {
+               "title": "DST硬體錢包將在2023年秋季進行發佈，特性如下:",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "1.支持多鏈離線創建助記詞，多鏈資產存儲。",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": " 2.封閉式系統，安全堅固，防止隱私外泄。",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            },
+            {
+               "title": "3.方便交易，簡單易用",
+               "isDownLoad": false,
+               "downUrl": "",
+               "isUrl": false,
+               "url": ""
+            }
+          ]
+        },
         {
           "title": "第一階段刪檔公測開啟",
           "showDesc": true,
@@ -109,7 +177,7 @@
                "url": ""
             },
             {
-               "title": "硬盤：大於10TB",
+               "title": "硬碟：如果硬碟不支持動態擴容，則建議使用容量10TB，支持動態擴容的話，可以先啟用1TB，後續再擴容",
                "isDownLoad": false,
                "downUrl": "",
                "isUrl": false,
