@@ -1,18 +1,18 @@
 {
     "current": [
       {
-        "version": "23.3.28",
+        "version": "23.07.03",
         "type": "Windows",
         "size": "64bit",
-        "sha256": "3c306914aad1d4cd03564d664185b7496706e1afd91a69b210fac70a0144036a",
-        "downUrl": "https://n1.daodst.com/DaoDst-Setup-23.3.28.exe"
+        "sha256": "c56c012f116e90101ff827376c3c520654ce66e30e706305e664ff07d6ccecbb",
+        "downUrl": "https://n1.daodst.com/daodst-win-23.07.03.exe"
       },
       {
-          "version": "23.03.31",
+          "version": "23.07.03",
           "type": "Linux",
           "size": "64bit",
-          "sha256": "abc67a35d0228383d3227f2eccd68a6703acb95c017530a6119552c52803efb6",
-          "downUrl": "https://n1.daodst.com/dst-linux-230331.tar.gz"
+          "sha256": "f06463ea937d92c8e528398ee98408ffc275e227b8d30bda944711d76daa21f4",
+          "downUrl": "https://n1.daodst.com/daodst-linux-230704.tar.gz"
         }
     ],
     "history": {
