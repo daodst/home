@@ -39,16 +39,16 @@
           "showDesc": true,
           "descList": [
             {
-               "title": "Public beta Android app (200M) version 23.03.310 download url.",
+               "title": "Public beta Gateway (win) version 23.07.03 download url.",
                "isDownLoad": true,
-               "downUrl": "https://n1.daodst.com/daodst_23.03.310.apk",
+               "downUrl": "https://n1.daodst.com/daodst-win-23.07.03.exe",
                "isUrl": false,
                "url": ""
             },
             {
-               "title": "Public beta Gateway (centos) version 23.03.31 download url.",
+               "title": "Public beta Gateway (linux) version 23.07.03 download url.",
                "isDownLoad": true,
-               "downUrl": "https://n1.daodst.com/dst-linux-230331.tar.gz",
+               "downUrl": "https://n1.daodst.com/daodst-linux-230704.tar.gz",
                "isUrl": false,
                "url": ""
             },
@@ -136,16 +136,16 @@
           "showDesc": true,
           "descList": [
             {
-               "title": "公測安卓app(200M)版本23.03.310下載地址。",
+               "title": "公测版Gateway(win)23.07.03版下载地址。",
                "isDownLoad": true,
-               "downUrl": "https://n1.daodst.com/daodst_23.03.310.apk",
+               "downUrl": "https://n1.daodst.com/daodst-win-23.07.03.exe",
                "isUrl": false,
                "url": ""
             },
             {
-               "title": "公测版Gateway(centos)23.03.31版下载地址。",
+               "title": "公测版Gateway(linux)23.07.03版下载地址。",
                "isDownLoad": true,
-               "downUrl": "https://n1.daodst.com/dst-linux-230331.tar.gz",
+               "downUrl": "https://n1.daodst.com/daodst-linux-230704.tar.gz",
                "isUrl": false,
                "url": ""
             },
