@@ -39,16 +39,16 @@
           "showDesc": true,
           "descList": [
             {
-               "title": "Public beta Gateway (win) version 23.07.03 download url.",
+               "title": "Public beta Gateway (win) version 23.07.27 download url.",
                "isDownLoad": true,
-               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/Secret+Telegram-Setup-23.7.3.exe",
+               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/Secret+Telegram-Setup-23.7.27.exe",
                "isUrl": false,
                "url": ""
             },
             {
-               "title": "Public beta Gateway (linux) version 23.07.03 download url.",
+               "title": "Public beta Gateway (linux) version 23.07.27 download url.",
                "isDownLoad": true,
-               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-linux-230704.tar.gz",
+               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-23.07.28.tar.gz",
                "isUrl": false,
                "url": ""
             },
@@ -136,16 +136,16 @@
           "showDesc": true,
           "descList": [
             {
-               "title": "公测版Gateway(win)23.07.03版下载地址。",
+               "title": "公测版Gateway(win)23.07.27版下载地址。",
                "isDownLoad": true,
-               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/Secret+Telegram-Setup-23.7.3.exe",
+               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/Secret+Telegram-Setup-23.7.27.exe",
                "isUrl": false,
                "url": ""
             },
             {
-               "title": "公测版Gateway(linux)23.07.03版下载地址。",
+               "title": "公测版Gateway(linux)23.07.27版下载地址。",
                "isDownLoad": true,
-               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-linux-230704.tar.gz",
+               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-23.07.28.tar.gz",
                "isUrl": false,
                "url": ""
             },
