@@ -1,18 +1,18 @@
 {
     "current": [
       {
-        "version": "23.07.27",
+        "version": "23.08.09",
         "type": "Windows",
         "size": "64bit",
         "sha256": "a7c00b5776f1d54578ae0c39cdd6f18843773ddd5ffb9e1ef95f6f9ec3e50f1a",
-        "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/Secret+Telegram-Setup-23.7.27.exe"
+        "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/DST-Setup-23.8.9.exe"
       },
       {
-          "version": "23.07.27",
+          "version": "23.08.08",
           "type": "Linux",
           "size": "64bit",
           "sha256": "fed6b6151b0936e7dce627d8d1f5e7e190a992ff5c98cba1a2b64311920e7bc1",
-          "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-23.07.28.tar.gz"
+          "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-23.08.08.tar.gz"
         }
     ],
     "history": {
