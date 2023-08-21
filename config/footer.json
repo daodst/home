@@ -1,196 +1,210 @@
 {
-    "en": [
+   "en": [
+          {
+         "title": "Hardware Wallet Launches Chip Flower",
+         "showDesc": true,
+         "descList": [
+          {
+              "title": "The DST hardware wallet will be released in the autumn of 2023, with the following features:",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
            {
-          "title": "Hardware Wallet Launches Chip Flower",
-          "showDesc": true,
-          "descList": [
+              "title": "1.Support multi chain offline creation of mnemonics, multi chain asset storage。",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
            {
-               "title": "The DST hardware wallet will be released in the autumn of 2023, with the following features:",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "1.Support multi chain offline creation of mnemonics, multi chain asset storage。",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": " 2.Closed system, secure and sturdy, preventing privacy leakage。",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "3.Easy to trade and use",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            }
-          ]
-        },
-        {
-          "title": "The first phase of file deletion public beta starts",
-          "showDesc": true,
-          "descList": [
-            {
-               "title": "Public beta Gateway (win) version 23.08.09 download url.",
-               "isDownLoad": true,
-               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/DST-Setup-23.8.9.exe",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "Public beta Gateway (linux) version 23.08.08 download url.",
-               "isDownLoad": true,
-               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-23.08.08.tar.gz",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "Client Command",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": true,
-               "url": "https://github.com/daodst/cli"
-            }
-          ]
-        },
-        {
-          "title": "Gateway node configuration recommendations.",
-          "showDesc": false,
-          "descList": [
-            {
-               "title": "CPU：More than 16 cores",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "Internal Storage：More than 32GB",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "Hard disk: If the hard disk does not support dynamic expansion, it is recommended to use a capacity of 10TB. If dynamic expansion is supported, 1TB can be enabled first and then expanded later",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "Handwidth：More than 50Mb/s",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            }
-          ]
-        }
-      ],
-    "zh-cn": [
+              "title": " 2.Closed system, secure and sturdy, preventing privacy leakage。",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "3.Easy to trade and use",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           }
+         ]
+       },
        {
-          "title": "DST硬體錢包推出預告",
-          "showDesc": true,
-          "descList": [
+         "title": "The first phase of file deletion public beta starts",
+         "showDesc": true,
+         "descList": [
            {
-               "title": "DST硬體錢包將在2023年秋季進行發佈，特性如下:",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "1.支持多鏈離線創建助記詞，多鏈資產存儲。",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": " 2.封閉式系統，安全堅固，防止隱私外泄。",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "3.方便交易，簡單易用",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            }
-          ]
-        },
-        {
-          "title": "第一階段刪檔公測開啟",
-          "showDesc": true,
-          "descList": [
-            {
-               "title": "公测版Gateway(win)23.08.09版下载地址。",
-               "isDownLoad": true,
-               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/DST-Setup-23.8.9.exe",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "公测版Gateway(linux)23.08.08版下载地址。",
-               "isDownLoad": true,
-               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-23.08.08.tar.gz",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "客戶端命令",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": true,
-               "url": "https://github.com/daodst/cli"
-            }
-          ]
-        },
-        {
-          "title": "網關節點配置建議。",
-          "showDesc": false,
-          "descList": [
-            {
-               "title": "CPU：16核以上",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "內部存儲：大於32GB",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "硬碟：如果硬碟不支持動態擴容，則建議使用容量10TB，支持動態擴容的話，可以先啟用1TB，後續再擴容",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            },
-            {
-               "title": "帶寬：大於50Mb/s",
-               "isDownLoad": false,
-               "downUrl": "",
-               "isUrl": false,
-               "url": ""
-            }
-          ]
-        }
-      ]
+              "title": "Public beta Gateway (win) version 23.08.09 download url.",
+              "isDownLoad": true,
+              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/DST-Setup-23.8.9.exe",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "Public beta Gateway (linux) version 23.08.08 download url.",
+              "isDownLoad": true,
+              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-23.08.08.tar.gz",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "Client Command",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": true,
+              "url": "https://github.com/daodst/cli"
+           }
+         ]
+       },
+       {
+         "title": "Gateway node configuration recommendations.",
+         "showDesc": false,
+         "descList": [
+         {
+              "title": "Operating system：Window 10",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "CPU：More than 16 cores",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "Internal Storage：More than 32GB",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "Hard disk: If the hard disk does not support dynamic expansion, it is recommended to use a capacity of 10TB. If dynamic expansion is supported, 1TB can be enabled first and then expanded later",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "Handwidth：More than 50Mb/s",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           }
+         ]
+       }
+     ],
+   "zh-cn": [
+      {
+         "title": "DST硬體錢包推出預告",
+         "showDesc": true,
+         "descList": [
+          {
+              "title": "DST硬體錢包將在2023年秋季進行發佈，特性如下:",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "1.支持多鏈離線創建助記詞，多鏈資產存儲。",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": " 2.封閉式系統，安全堅固，防止隱私外泄。",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "3.方便交易，簡單易用",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           }
+         ]
+       },
+       {
+         "title": "第一階段刪檔公測開啟",
+         "showDesc": true,
+         "descList": [
+           {
+              "title": "公测版Gateway(win)23.08.09版下载地址。",
+              "isDownLoad": true,
+              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/DST-Setup-23.8.9.exe",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "公测版Gateway(linux)23.08.08版下载地址。",
+              "isDownLoad": true,
+              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-23.08.08.tar.gz",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "客戶端命令",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": true,
+              "url": "https://github.com/daodst/cli"
+           }
+         ]
+       },
+       {
+         "title": "網關節點配置建議。",
+         "showDesc": false,
+         "descList": [
+           {
+              "title": "操作系统：Window 10",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "CPU：16核以上",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "內部存儲：大於32GB",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "硬碟：如果硬碟不支持動態擴容，則建議使用容量10TB，支持動態擴容的話，可以先啟用1TB，後續再擴容",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "帶寬：大於50Mb/s",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           }
+         ]
+       }
+     ]
 }
