@@ -1,18 +1,20 @@
 {
   "current": [
     {
-      "version": "23.08.09",
-      "type": "Windows",
-      "size": "64bit",
-      "sha256": "a3999c6d62db1ca74de3eb29cfe60d88a493c9063d8c9063ca7c589f981b0ddc",
-      "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/DST-Setup-23.8.9.exe"
-    },
-    {
         "version": "23.08.08",
         "type": "Linux",
-        "size": "64bit",
-        "sha256": "a029a58349a0d42164128a4c87570570fe96181f845d06a36610a22e56362e7c",
-        "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-23.08.08.tar.gz"
+        "size": "626MB",
+        "sha256": "3dc116bb638c32d6781b57a5de5a6430de01fd60ddf8e9681eeb42050b8e7818",
+        "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_23.10.26.zip"
+      }
+  ],
+  "chainCurrent": [
+    {
+        "version": "23.10.26",
+        "type": "Linux",
+        "size": "40MB",
+        "sha256": "12a5a6b4551d8de8a98cac9ae24914878fad4fcf5e330c070623aecc2c4b48c9",
+        "downUrl": "https://d3efhjwruynl71.cloudfront.net/dpos/linux/dpos_linux_23.10.26.zip"
       }
   ],
   "history": {
