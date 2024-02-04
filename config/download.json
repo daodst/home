@@ -9,7 +9,7 @@
       },
     {
         "version": "24.02.04",
-        "type": "Linux",
+        "type": "Centos7",
         "size": "2200MB",
         "sha256": "ce9e6e5b2f3dda8f0f64725f95bae0f5846e3b0fd090653f83d52b65e5a63730",
         "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_24.02.04.zip"
