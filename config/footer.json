@@ -39,16 +39,16 @@
          "showDesc": true,
          "descList": [
            {
-              "title": "Public beta Dpos Node (linux) version 23.10.26 download url.",
+              "title": "Public beta Dpos Node (linux) version 24.02.04 download url.",
               "isDownLoad": true,
-              "downUrl": "https://d3efhjwruynl71.cloudfront.net/dpos/linux/dpos_linux_23.10.26.zip",
+              "downUrl": "https://d3efhjwruynl71.cloudfront.net/dpos/linux/dpos_linux_24.02.04.zip",
               "isUrl": false,
               "url": ""
            },
            {
-              "title": "Public beta Gateway Node (linux) version 23.10.26 download url.",
+              "title": "Public beta Gateway Node (linux) version 24.02.04 download url.",
               "isDownLoad": true,
-              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_23.10.26.zip",
+              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_24.02.04.zip",
               "isUrl": false,
               "url": ""
            },
@@ -143,16 +143,16 @@
          "showDesc": true,
          "descList": [
            {
-              "title": "公测版Gateway(win)23.08.09版下载地址。",
+              "title": "公测版Gateway(win)24.02.04版下载地址。",
               "isDownLoad": true,
-              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/DST-Setup-23.8.9.exe",
+              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/gateway_win_24.02.04.zip",
               "isUrl": false,
               "url": ""
            },
            {
               "title": "公测版Gateway(linux)23.08.08版下载地址。",
               "isDownLoad": true,
-              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/daodst-23.08.08.tar.gz",
+              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_24.02.04.zip",
               "isUrl": false,
               "url": ""
            },
