@@ -46,7 +46,7 @@
               "url": ""
            },
            {
-              "title": "Public beta Gateway Node (linux) version 24.02.04 download url.",
+              "title": "Public beta Gateway Node (linux-centos7) version 24.02.04 download url.",
               "isDownLoad": true,
               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_24.02.04.zip",
               "isUrl": false,
@@ -150,7 +150,7 @@
               "url": ""
            },
            {
-              "title": "公测版Gateway(linux)24.02.04版下载地址。",
+              "title": "公测版Gateway(linux-centos7)24.02.04版下载地址。",
               "isDownLoad": true,
               "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_24.02.04.zip",
               "isUrl": false,
