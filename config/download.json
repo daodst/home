@@ -1,27 +1,27 @@
 {
   "current": [
     {
-        "version": "24.02.04",
+        "version": "24.02.29",
         "type": "Windows",
-        "size": "2165MB",
-        "sha256": "04c85c2850d40a2767a67186b527a32cd73b5a5558f39343b295973b857a3b92",
-        "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/gateway_win_24.02.04.zip"
+        "size": "2115MB",
+        "sha256": "995ba415255a5d9697eb7980c686ffe3ab28061da8f34228c20a082a8dbb08d4",
+        "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/gateway_win_24.02.29.zip"
       },
     {
-        "version": "24.02.04",
+        "version": "24.02.29",
         "type": "Centos7",
-        "size": "2200MB",
-        "sha256": "ce9e6e5b2f3dda8f0f64725f95bae0f5846e3b0fd090653f83d52b65e5a63730",
-        "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_24.02.04.zip"
+        "size": "2159MB",
+        "sha256": "2ae9c324f7ab081495bb62801da65fb8bf138225cd5631315ee54d7dc1da7e1c",
+        "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_24.02.29.zip"
       }
   ],
   "chainCurrent": [
     {
-        "version": "24.02.04",
+        "version": "24.02.29",
         "type": "Linux",
         "size": "40MB",
-        "sha256": "f5bbdef4df6f7e7c4b0c0bc6b4d9b69fb0bb358717d839659771600f57d5deca",
-        "downUrl": "https://d3efhjwruynl71.cloudfront.net/dpos/linux/dpos_linux_24.02.04.zip"
+        "sha256": "e995cbc52742c761e9e3540571a75aca383019a30d46e78e0641467bd571460b",
+        "downUrl": "https://d3efhjwruynl71.cloudfront.net/dpos/linux/dpos_linux_24.02.29.zip"
       }
   ],
   "history": {
