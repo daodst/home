@@ -163,7 +163,7 @@
          "showDesc": false,
          "descList": [
            {
-              "title": "操作系统：Window 10/Centos 7/Centos 8",
+              "title": "操作系统：Window Server 2022/Centos 7/Centos 8",
               "isDownLoad": false,
               "downUrl": "",
               "isUrl": false,
