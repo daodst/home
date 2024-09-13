@@ -139,30 +139,23 @@
          ]
        },
        {
-         "title": "第一階段刪檔公測開啟",
+         "title": "正式版發布",
          "showDesc": true,
          "descList": [
            {
-              "title": "公测版Gateway(win)24.02.29版下载地址。",
+              "title": "正式版Gateway(win)下载地址。",
               "isDownLoad": true,
-              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/gateway_win_24.02.29.zip",
-              "isUrl": false,
-              "url": ""
-           },
-           {
-              "title": "公测版Gateway(linux-centos7)24.02.29版下载地址。",
-              "isDownLoad": true,
-              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_24.02.29.zip",
-              "isUrl": false,
-              "url": ""
-           },
-           {
-              "title": "客戶端命令",
-              "isDownLoad": false,
               "downUrl": "",
-              "isUrl": true,
-              "url": "https://github.com/daodst/cli"
-           }
+              "isUrl": false,
+              "url": ""
+           },
+           {
+              "title": "正式版Gateway(linux-centos7)下载地址。",
+              "isDownLoad": true,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
          ]
        },
        {
@@ -170,7 +163,7 @@
          "showDesc": false,
          "descList": [
            {
-              "title": "操作系统：Window 10",
+              "title": "操作系统：Window 10/Centos 7/Centos 8",
               "isDownLoad": false,
               "downUrl": "",
               "isUrl": false,
