@@ -1,27 +1,27 @@
 {
   "current": [
     {
-        "version": "24.02.29",
+        "version": "24.09.18",
         "type": "Windows",
         "size": "2115MB",
         "sha256": "995ba415255a5d9697eb7980c686ffe3ab28061da8f34228c20a082a8dbb08d4",
-        "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/win/gateway_win_24.02.29.zip"
+        "downUrl": ""
       },
     {
-        "version": "24.02.29",
+        "version": "24.09.18",
         "type": "Centos7",
         "size": "2159MB",
         "sha256": "2ae9c324f7ab081495bb62801da65fb8bf138225cd5631315ee54d7dc1da7e1c",
-        "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_24.02.29.zip"
+        "downUrl": ""
       }
   ],
   "chainCurrent": [
     {
-        "version": "24.02.29",
+        "version": "24.09.18",
         "type": "Linux",
         "size": "40MB",
         "sha256": "e995cbc52742c761e9e3540571a75aca383019a30d46e78e0641467bd571460b",
-        "downUrl": "https://d3efhjwruynl71.cloudfront.net/dpos/linux/dpos_linux_24.02.29.zip"
+        "downUrl": ""
       }
   ],
   "history": {
