@@ -39,16 +39,16 @@
          "showDesc": true,
          "descList": [
            {
-              "title": "Public beta Dpos Node (linux) version 24.02.29 download url.",
+              "title": "Dpos Node (linux) version  download url.",
               "isDownLoad": true,
-              "downUrl": "https://d3efhjwruynl71.cloudfront.net/dpos/linux/dpos_linux_24.02.29.zip",
+              "downUrl": "",
               "isUrl": false,
               "url": ""
            },
            {
-              "title": "Public beta Gateway Node (linux-centos7) version 24.02.29 download url.",
+              "title": "Gateway Node (linux-centos7) version download url.",
               "isDownLoad": true,
-              "downUrl": "https://d3efhjwruynl71.cloudfront.net/gateway/linux/gateway_linux_24.02.29.zip",
+              "downUrl": "",
               "isUrl": false,
               "url": ""
            },
