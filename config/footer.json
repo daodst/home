@@ -1,5 +1,53 @@
 {
    "en": [
+         {
+         "title": "Gateway node 250522 released",
+         "showDesc": true,
+         "descList": [
+           {
+              "title": "Supported operating systems：Windows server 2022+",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+            {
+              "title": "1.Prepare to download the tool: IPFS， Click to download (run the compressed file) install.sh Installation)",
+              "isDownLoad": true,
+              "downUrl": "https://github.com/ipfs/kubo/releases/download/v0.35.0/kubo_v0.35.0_linux-amd64.tar.gz",
+              "isUrl": false,
+              "url": ""
+           },
+            {
+              "title": "2.initialization IPFS： ipfs init",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+          {
+              "title": "3.start IPFS： ipfs daemon",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+            {
+              "title": "4.Download gateway node： ipfs get QmU3o1cPodohckoW3TsgZH15oKsxGk8mdm6K1aNVwF99c9 -o DST.ZIP",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+            {
+              "title": "5.Gateway Node Deployment Instructions：",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": true,
+              "url": "https://zh-tw.docs.daodst.com/gateway/guide-win/"
+           }
+           ]
+       },
    {
          "title": "Chain Node 250522 Release",
          "showDesc": true,
@@ -159,6 +207,54 @@
        }
      ],
    "zh-cn": [
+      {
+         "title": "網關節點250522發佈",
+         "showDesc": true,
+         "descList": [
+           {
+              "title": "支持的作業系統：Windows server 2022+",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+            {
+              "title": "1.準備下載工具：IPFS，點擊下載（運行壓縮包內的install.sh安裝）",
+              "isDownLoad": true,
+              "downUrl": "https://github.com/ipfs/kubo/releases/download/v0.35.0/kubo_v0.35.0_linux-amd64.tar.gz",
+              "isUrl": false,
+              "url": ""
+           },
+            {
+              "title": "2.初始化IPFS： ipfs init",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+          {
+              "title": "3.啟動IPFS： ipfs daemon",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+            {
+              "title": "4.下載網關節點： ipfs get QmU3o1cPodohckoW3TsgZH15oKsxGk8mdm6K1aNVwF99c9 -o DST.ZIP",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": false,
+              "url": ""
+           },
+            {
+              "title": "5.網關節點部署說明：",
+              "isDownLoad": false,
+              "downUrl": "",
+              "isUrl": true,
+              "url": "https://zh-tw.docs.daodst.com/gateway/guide-win/"
+           }
+           ]
+       },
    {
          "title": "链節點250522發佈",
          "showDesc": true,
